@@ -1,14 +1,10 @@
 body {
-    background-color: #38c8c3;
+    background-image: url"https://wallpaperaccess.com/full/2757447.jpg";
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
-body {
-    background-color: rgb(56, 200, 195);
-}
-
-body {
-    background-color: hsl(178, 72%, 50%);
-}
 
 h1{
     family-font:"kara",sans serif;
