@@ -1,20 +1,27 @@
-body{
-    background:38c8c3;  
-    color:38c8c3;
+body {
+    background-color: #38c8c3;
+}
+
+body {
+    background-color: rgb(56, 200, 195);
+}
+
+body {
+    background-color: hsl(178, 72%, 50%);
 }
 
 h1{
     family-font:"kara",sans serif;
     font-size:25px;
-    color:black;
     text-align:center;
+    color:black;
 }
 
 h3{
     family-font:"kara",sans serif;
     font-size:20px;
-    color:black;
     text-align:center;
+    color:black;
 }
 
 p{
