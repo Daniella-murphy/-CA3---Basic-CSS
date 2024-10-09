@@ -1,8 +1,10 @@
 body{
-    background-color:light blue;
+    background-color:38C8C3;
+    
 }
 
 h1{
+    family-font:"kara",sans serif;
     color:black;
     text-align:center;
 }
@@ -15,5 +17,5 @@ h3{
 p{
    font-family:verdana;
    font-size:20px;
-   text-align:center;
+   text-align:left;
 }
