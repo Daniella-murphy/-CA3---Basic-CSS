@@ -1,11 +1,15 @@
 body {
-  background: repeating-linear-gradient(
-    45deg;
-    #606dbc;
-    #606dbc 10px;
-    #465298 10px;
-    #465298 20px;)
+    background-color: #c88038;
 }
+
+body {
+    background-color: rgb(200, 128, 56);
+}
+
+body {
+    background-color: hsl(30, 72%, 50%);
+}
+
 
 h1{
     family-font:"kara",sans serif;
