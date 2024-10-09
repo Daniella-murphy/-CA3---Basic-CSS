@@ -1,10 +1,11 @@
 body {
-    background-image: url"https://wallpaperaccess.com/full/2757450.jpg";
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+  background: repeating-linear-gradient(
+    45deg;
+    #606dbc;
+    #606dbc 10px;
+    #465298 10px;
+    #465298 20px;)
 }
-
 
 h1{
     family-font:"kara",sans serif;
