@@ -12,14 +12,14 @@ body {
 
 
 h1{
-    family-font:"kara",sans serif;
+    family-font:'kara',sans serif;
     font-size:25px;
     text-align:center;
     color:black;
 }
 
 h3{
-    family-font:"kara",sans serif;
+    family-font:'kara',sans serif;
     font-size:20px;
     text-align:center;
     color:black;
