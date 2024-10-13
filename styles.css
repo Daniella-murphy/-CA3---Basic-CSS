@@ -17,6 +17,12 @@ h1{
     color:black;
 }
 
+h2{
+    font-family: "verdana", sans-serif;
+    font-size:10px;
+    text-align:left;
+}
+
 h3{
     font-family: "Courier New", "Lucida Console", sans-serif;
     font-size:20px;
@@ -30,8 +36,3 @@ p{
    text-align:center;
 }
 
-h2{
-    font-family: "verdana", sans-serif;
-    font-size:10px;
-    text-align:left;
-}
